@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/donut_chart/static/css/main.d0cdfa2d.chunk.css",
+    "main.js": "/donut_chart/static/js/main.ad1e2f95.chunk.js",
+    "main.js.map": "/donut_chart/static/js/main.ad1e2f95.chunk.js.map",
+    "runtime~main.js": "/donut_chart/static/js/runtime~main.2b531981.js",
+    "runtime~main.js.map": "/donut_chart/static/js/runtime~main.2b531981.js.map",
+    "static/js/2.e278d863.chunk.js": "/donut_chart/static/js/2.e278d863.chunk.js",
+    "static/js/2.e278d863.chunk.js.map": "/donut_chart/static/js/2.e278d863.chunk.js.map",
+    "index.html": "/donut_chart/index.html",
+    "precache-manifest.bf6076e4587533553c6281ff6059244a.js": "/donut_chart/precache-manifest.bf6076e4587533553c6281ff6059244a.js",
+    "service-worker.js": "/donut_chart/service-worker.js",
+    "static/css/main.d0cdfa2d.chunk.css.map": "/donut_chart/static/css/main.d0cdfa2d.chunk.css.map"
+  }
+}
