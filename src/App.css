@@ -1,0 +1,51 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    display: grid;
+    align-content: center;
+
+}
+.svg-donut{
+    display: block;
+    margin: auto;
+    transform: rotate(-90deg);
+
+}
+.donut-segment{
+    /* stroke-linecap: round; */
+    transition: stroke-dashoffset 1s ;
+
+}
+.btn{
+    border: solid 1px #ccc;
+    display: inline-block;
+    margin: -20px 5px 10px;
+    padding: 12px 17px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.btn.current{
+    background: #666;
+    color: #fff;
+    border-color: #666;
+}
+.donut-input{
+    top: -290px;
+    margin-bottom: -300px;
+    position: relative;
+    color: #c0c0c0;
+    font-size: 12px;
+
+}
+input{
+    background: none;
+    border: none;
+    width: 170px;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+}
+input::placeholder{
+    font-size: 50px;
+    color: #555;
+}
