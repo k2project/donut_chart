@@ -9,7 +9,7 @@ I created this application to demonstrate SVG and React skills.
 
 #Screenshot
 
-![Screnshot](https://k2project.github.io/portfolio/static/media/cards.7ba465aa.gif)
+![Screnshot](https://k2project.github.io/portfolio/static/media/donutChart.ea46b7e2.gif)
 
 # Tech/frameworks used
 
